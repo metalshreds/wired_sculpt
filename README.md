@@ -26,13 +26,17 @@
 * Unplug and replug the keyboard to the computer 
 
 ====
+
 Teensy programming executable
+
 ![teensy gui](resources/gui.jpg)
 
 Teensy ready to be programmed(green down arrow)
+
 ![teensy ready to program](resources/ready_to_program.jpg)
 
 Teensy in programming mode
+
 ![teensy being programmed](resources/programming.jpg)
 
 
