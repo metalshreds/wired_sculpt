@@ -22,7 +22,7 @@
 * Plug in the keyboard with the new pcb board to the pc.
 * Launch the executable
 * Drag and drop the hex file into the teensy gui
-* Press the program button
+* Press the program button (green arrow pointing down on the gui)
 * Unplug and replug the keyboard to the computer 
 
 ====
