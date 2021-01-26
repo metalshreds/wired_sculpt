@@ -35,7 +35,7 @@ Teensy ready to be programmed(green down arrow)
 
 ![teensy ready to program](resources/ready_to_program.jpg)
 
-Teensy in programming mode
+Teensy being programmed
 
 ![teensy being programmed](resources/programming.jpg)
 
