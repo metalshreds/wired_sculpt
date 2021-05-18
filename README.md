@@ -48,3 +48,21 @@ With TMK/QMK firmware you can hold Space+B while plugging in the keyboard and th
 #### More Resources
 
 [TMK github page on Microsoft Sculpt](https://github.com/blttll/tmk_keyboard/tree/master/keyboard/sculpt)
+
+
+#### Compiling in Linux
+```
+compile tmk
+
+git clone https://github.com/blttll/tmk_keyboard.git
+
+cd to 
+/home/dory/tmk_keyboard/keyboard/sculpt
+
+sudo apt install make
+sudo apt-get update
+sudo apt-get install gcc-avr
+sudo apt install avr-libc
+make 
+https://github.com/tmk/tmk_keyboard/issues/373
+```
